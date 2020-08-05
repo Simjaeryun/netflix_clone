@@ -1,0 +1,21 @@
+@import "reset.css";
+@import "style.css";
+@import "index.css";
+@import "login.css";
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
