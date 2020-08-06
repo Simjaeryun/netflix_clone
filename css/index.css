@@ -118,8 +118,8 @@
   background: #000000;
   color: #fff;
   width: 100%;
-  height: 45rem;
-  border-top: 1rem solid #888;
+  height: 50rem;
+  border-top: 0.8rem solid #222;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -158,12 +158,14 @@
 .two_content_img,
 .three_content_img,
 .four_content_img {
+  width: 70%;
+  height: 70%;
   text-align: center;
 }
 
 .two_content_img img,
 .three_content_img img,
 .four_content_img img {
-  max-width: 50%;
-  max-height: 50%;
+  max-width: 100%;
+  max-height: 100%;
 }
